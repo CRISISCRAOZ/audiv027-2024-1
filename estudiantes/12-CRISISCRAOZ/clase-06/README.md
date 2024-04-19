@@ -1,7 +1,5 @@
 # clase-06
 
-skdksdjf
-
 ## entrega: Play FugazFace
 
 CRISISCRAOZ
